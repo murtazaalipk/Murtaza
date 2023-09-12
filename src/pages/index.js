@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
-    <main className=" m-6">
+    <main className=" mt-20 m-6">
       <div className="flex justify-start gap-20">
         <div className="flex flex-col gap-10">
           <h1 className=" text-7xl font-bold font-mono">Hi,</h1>
@@ -17,7 +17,7 @@ export default function Home() {
         </div>
         <div>
           <img
-            className=" border-8 border-[#c6f6d5] border-solid h-96 rounded-full"
+            className="border-solid border-4 rounded-full border-gray-600  h-96"
             src="../mypic.jpg"
           />
         </div>
