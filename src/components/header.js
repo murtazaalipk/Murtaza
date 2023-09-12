@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Header() {
     return (
       <main>
-  <div className=" mt-3 ml-3">
+  <div className=" m-3">
       <Tabs variant="soft-rounded" colorScheme="green">
         <TabList>
 
@@ -15,6 +15,7 @@ export default function Header() {
         </TabList>
       </Tabs>
       </div>
+      <hr/>
       </main>
     )
   }
