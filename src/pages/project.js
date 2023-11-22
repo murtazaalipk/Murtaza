@@ -23,7 +23,7 @@ export default function Project() {
         <li key={project.id}>
           <h2 className=' text-2xl' >{project.name}</h2>
           <p>{project.description}</p>
-          <Link className=' text-amber-600 ' href={project.url}>Click Me!</Link>
+          <Link className=' text-amber-600 ' target='_blank' href={project.url}>Click Me!</Link>
         </li>
       ))}
     </ul>
