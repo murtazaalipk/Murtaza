@@ -1,12 +1,17 @@
-[
-  {
-    "name": "OLX Clone",
-    "url": "https://syedmurtazaali-dev.github.io/Olx-Clone/",
-    "id": 1
-  },
-  {
-    "name": "Pepsi Clone",
-    "url": "",
-    "id": 2
-  }
-]
+
+{
+  "projects": [
+    {
+      "id": 1,
+      "name": "Olx Clone",
+      "description": "I made it for a hands on practice of html CSS open it on web browser it wan no responsive right know",
+      "url": "https://syedmurtazaali-dev.github.io/Olx-Clone/",
+    },
+    {
+      "id": 2,
+      "name": "Pepsi Clone",
+      "description": "I made it for a hands on practice of html CSS open it on web browser it wan no responsive right know",
+      "url": "https://syedmurtazaali-dev.github.io/Olx-Clone/",
+    }
+  ]
+}
