@@ -12,7 +12,7 @@ export default function Project() {
   }, []);
   return (
     <main className=" m-6">
-       I am Projects
+      Projects Page
        <h1>Project 1</h1>
 {       <p>{Data.data[0].name}</p>}
        <h1>Project 2</h1>
