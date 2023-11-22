@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
-
+import Link from 'next/link';
 export default function Project() {
+  const [projects, setProjects] = useState([]);
   useEffect(() => {
     const fetchData = async () => {
       try {
@@ -17,12 +18,12 @@ export default function Project() {
 
   return (
     <div>
-    <h1>Projects</h1>
-    <ul>
+    <ul className='flex gap-8 flex-col p-10'>
       {projects.map((project) => (
         <li key={project.id}>
-          <h2>{project.name}</h2>
+          <h2 className=' text-2xl' >{project.name}</h2>
           <p>{project.description}</p>
+          <Link className=' text-amber-600 ' href={project.url}>Click Me!</Link>
         </li>
       ))}
     </ul>
