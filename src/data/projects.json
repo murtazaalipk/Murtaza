@@ -25,5 +25,11 @@
       "description": "I am learning Mern Stack at Salayni. It was a practice assignement for Next auth UI is given by my course instructor ",
       "url": "https://next-auth-dusky-phi.vercel.app/"
     }
+    {
+      "id": 5,
+      "name": "NIKI clone",
+      "description": "Its a NIKI clone It is only responsive header and footer which has made by using Next JS and tailwind.",
+      "url": "https://next-auth-dusky-phi.vercel.app/"
+    }
   ]
 }
