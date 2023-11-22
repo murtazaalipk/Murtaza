@@ -27,9 +27,9 @@
     },
     {
       "id": 5,
-      "name": "NIKI clone",
-      "description": "Its a NIKI clone It is only responsive header and footer which has made by using Next JS and tailwind.",
-      "url": "https://next-auth-dusky-phi.vercel.app/"
+      "name": "NIKE clone",
+      "description": "Its a NIKE clone It is only responsive Header and ooter which has made by using Next JS and tailwind.",
+      "url": "https://nike-clone-nextjs-jet.vercel.app/"
     }
   ]
 }
