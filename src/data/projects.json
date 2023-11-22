@@ -4,14 +4,20 @@
     {
       "id": 1,
       "name": "Olx Clone",
-      "description": "I made it for a hands on practice of html CSS open it on web browser it wan no responsive right know",
-      "url": "https://syedmurtazaali-dev.github.io/Olx-Clone/",
+      "description": "I made it for a hands on practice of html CSS open it on web browser it is not responsive right know",
+      "url": "https://murtazaalipk.github.io/Olx-Clone/"
     },
     {
       "id": 2,
       "name": "Pepsi Clone",
-      "description": "I made it for a hands on practice of html CSS open it on web browser it wan no responsive right know",
-      "url": "https://syedmurtazaali-dev.github.io/Olx-Clone/",
+      "description": "I made it for a hands on practice of html CSS open it on web browser it is not responsive right know",
+      "url": "https://murtazaalipk.github.io/Pepsi-Clone/"
+    },
+    {
+      "id": 3,
+      "name": "Periodic Table",
+      "description": "I made it for a hands on practice of CSS",
+      "url": "https://murtazaalipk.github.io/periodic-table/"
     }
   ]
 }
