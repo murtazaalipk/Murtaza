@@ -1,6 +1,5 @@
-import { getAll } from "@/services/projects"
+import data from '../../data/projects.json';
 
 export default function handler(req, res) {
-  const data = getAll();
-  res.status(200).json({data});
-  }
+  res.status(200).json(data);
+}
