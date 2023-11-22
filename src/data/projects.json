@@ -30,6 +30,12 @@
       "name": "NIKE clone",
       "description": "Its a NIKE clone It is only responsive Header and ooter which has made by using Next JS and tailwind.",
       "url": "https://nike-clone-nextjs-jet.vercel.app/"
+    },
+    {
+      "id": 6,
+      "name": "Budgeting App",
+      "description": "Its a Monthly Budget App made By Vanila JS functionality of todo list also use for monthly expense.",
+      "url": "https://murtazaalipk.github.io/Budgeting-App/"
     }
   ]
 }
