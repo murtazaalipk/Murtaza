@@ -21,8 +21,8 @@ export default function About() {
         <div>
               <h1 className=" text-gray-600 font-sans font-bold text-3xl mt-14 " >Syed Murtaza Ali</h1>
               <h1 className=" text-gray-600 font-sans font-bold text-3xl mt-8" >Frontend developer</h1>
+              <h1 className=" text-gray-600 font-sans font-bold text-3xl mt-8" >Mern Stack Development Course From Smit</h1>
               <h1 className=" text-gray-600 font-sans font-bold text-3xl mt-8" >Enrolled in BS Software Engineering at Smiu</h1>
-              <h1 className=" text-gray-600 font-sans font-bold text-3xl mt-8" >Enrolled in Mern Stack at Smit</h1>
         </div>
       </div>
     </main>
