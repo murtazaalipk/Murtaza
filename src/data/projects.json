@@ -3,28 +3,29 @@
   "projects": [
     {
       "id": 1,
+      "name": "Credential Authentication by next Js",
+      "description": "I am learning Mern Stack at Salayni. It was a practice assignement for Next auth UI is given by my course instructor ",
+      "url": "https://next-auth-dusky-phi.vercel.app/"
+    },
+    {
+      "id": 2,
       "name": "Olx Clone",
       "description": "I made it for a hands on practice of html CSS open it on web browser it is not responsive right know",
       "url": "https://murtazaalipk.github.io/Olx-Clone/"
     },
     {
-      "id": 2,
+      "id": 3,
       "name": "Pepsi Clone",
       "description": "I made it for a hands on practice of html CSS open it on web browser it is not responsive right know",
       "url": "https://murtazaalipk.github.io/Pepsi-Clone/"
     },
     {
-      "id": 3,
+      "id": 4,
       "name": "Periodic Table",
       "description": "I made it for a hands on practice of CSS",
       "url": "https://murtazaalipk.github.io/periodic-table/"
     },
-    {
-      "id": 4,
-      "name": "Credential Authentication by next Js",
-      "description": "I am learning Mern Stack at Salayni. It was a practice assignement for Next auth UI is given by my course instructor ",
-      "url": "https://next-auth-dusky-phi.vercel.app/"
-    },
+    
     {
       "id": 5,
       "name": "NIKE clone",
