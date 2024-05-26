@@ -4,7 +4,8 @@ import Link from "next/link"
 export default function Contact() {
     return (
       <main className=" ">
-          <div className="flex gap-40 justify-center">
+          <div className="flex flex-col lg:flex-row justify-between pr-10 pl-10">
+          <img className="h-[32rem]" src="../contact.jpg" />
             <div>
               <h1 className="font-mono text-2xl font-bold mt-10 text-center" >I'm Here For you</h1>
               <div className="flex flex-col gap-8" >
@@ -14,7 +15,6 @@ export default function Contact() {
                 <div className="flex gap-10 items-center"> <img className="h-10" src="../linkedin.png" /><Link href={'https://www.linkedin.com/in/murtazaalipk/'} ><p className="text-yellow-500 text-xl font-mono mt-2 font-bold">murtazaalipk</p></Link></div>
               </div>
             </div>
-            <img className="h-[32rem]" src="../contact.jpg" />
           </div>
       </main>
     )
